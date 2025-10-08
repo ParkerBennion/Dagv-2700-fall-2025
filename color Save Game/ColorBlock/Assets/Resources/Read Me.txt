@@ -1,0 +1,3 @@
+there is a json file here that does not show up in unity, find where your project saves to see the file
+if you run the scene i have made it print in the console it will be roughly this location
+C:/Users/parke/AppData/LocalLow/DefaultCompany/ColorBlock\PlayerData\Alice.json
